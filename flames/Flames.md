@@ -1,4 +1,4 @@
-#Flames
+# Flames
 
 FLAMES game is a method to find out the status of a love relationship. Entering two names will give you the outcome of a relationship between them.
 
